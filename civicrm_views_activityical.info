@@ -1,0 +1,8 @@
+name = CiviCRM Views Activity ICAL
+description = Make Activity ICAL values available to views.
+core = 7.x
+
+dependencies[] = ctools
+
+; Views Handlers
+files[] = views/civicrm_views_activityical_handler_field_link.inc

@@ -6,7 +6,7 @@
  */
 
 /**
- * Description of what my handler does.
+ * Render iCalendar fields as links.
  */
 class civicrm_views_activityical_handler_field_link extends views_handler_field {
 

@@ -1,5 +1,5 @@
-name = CiviCRM Views Activity ICAL
-description = Make Activity ICAL values available to views.
+name = CiviCRM Views Activity iCalendar
+description = Make Activity iCalendar values available to views.
 core = 7.x
 
 dependencies[] = ctools
